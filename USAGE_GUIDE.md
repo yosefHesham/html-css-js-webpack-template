@@ -25,6 +25,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Install
 - clone the repo
+- run npm init -y
 - run npm i to install all packages.
 
 
