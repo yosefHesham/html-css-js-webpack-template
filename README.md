@@ -46,8 +46,8 @@ After you added the script you can:
 👤 **Yousef Hesham**
 
 - GitHub: [@yousefHesham](https://github.com/yosefHesham)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- Twitter: [@Yousef45653478](https://twitter.com/Yousef45653478)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/yousef-hesham-b132ba179/)
 
 
 ## 🤝 Contributing
